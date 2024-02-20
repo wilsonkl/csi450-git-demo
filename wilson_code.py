@@ -5,6 +5,8 @@ import random
 
 print('bye')
 
+print('yo')
+
 if __name__ == '__main__':
     print('this is a main block')
 
