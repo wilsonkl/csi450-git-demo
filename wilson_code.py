@@ -12,7 +12,7 @@ if __name__ == '__main__':
 
 
 #Jack's
-random_number = random.randint(1, 100)
+random_number = random.randint(1, 10000000)
 
 print("Random number:", random_number)
 
