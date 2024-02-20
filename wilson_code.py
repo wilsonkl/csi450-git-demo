@@ -15,3 +15,5 @@ if __name__ == '__main__':
 random_number = random.randint(1, 100)
 
 print("Random number:", random_number)
+
+print('hello everyone')
